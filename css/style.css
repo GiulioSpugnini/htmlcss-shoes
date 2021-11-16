@@ -18,6 +18,26 @@ img{
     font-family: 'Roboto', sans-serif;
     font-family: 'Rubik Mono One', sans-serif;
 }
+.navbar{
+    position: fixed;
+    z-index: 1;
+    top: 2%;
+    right: 20%;
+}
+.navbar li{
+    display: inline-block;
+    margin-top: 20px;
+}
+.nav-text{
+    background-color: white;
+    height: 40px;
+    width: 40x;
+    font-size: 15px;
+    border-radius: 50%;
+    padding: 10px 15px;
+    margin-right: 10px;
+    
+}
 .showcase{
     background-color: red;
     width: 100%;
