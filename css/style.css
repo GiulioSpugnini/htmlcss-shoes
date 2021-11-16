@@ -16,11 +16,11 @@ body {
   background-color: black;
   overflow: hidden;
 }
-h1{
-    cursor: default;
+h1 {
+  cursor: default;
 }
 .container {
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
   font-family: "Roboto", sans-serif;
   font-family: "Rubik Mono One", sans-serif;
@@ -28,8 +28,8 @@ h1{
 .navbar {
   position: fixed;
   z-index: 1;
-  top: 2%;
-  right: 20%;
+  top: 20px;
+  right: 50px;
   cursor: default;
 }
 .navbar li {
