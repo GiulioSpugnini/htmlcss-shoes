@@ -59,3 +59,13 @@ img{
     font-size: xx-large;
     font-weight: 200;
 }
+#adidas{
+    background-color: green;
+}
+#converse{
+    background-color: #ffff00;
+}
+#converse h1{
+    color: #008000 ;
+
+}
