@@ -23,20 +23,23 @@ img{
     z-index: 1;
     top: 2%;
     right: 20%;
+    cursor: default;
 }
 .navbar li{
     display: inline-block;
     margin-top: 20px;
+    
 }
 .nav-text{
     background-color: white;
     height: 40px;
     width: 40x;
+    text-decoration: none;
+    color: black;
     font-size: 15px;
     border-radius: 50%;
     padding: 10px 15px;
-    margin-right: 10px;
-    
+    margin-right: 10px;  cursor: pointer;
 }
 .showcase{
     background-color: red;
