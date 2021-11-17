@@ -86,4 +86,5 @@ li:hover{
 }
 #converse h1 {
   color: #008000;
+  filter: drop-shadow(1px 1px 3px red);
 }
